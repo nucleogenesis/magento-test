@@ -1,0 +1,1 @@
+/var/www/html/magento/app/code/Swiftype/Swiftype/view/frontend/web/js/swiftype.magento.js
