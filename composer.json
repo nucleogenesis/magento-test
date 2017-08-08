@@ -11,7 +11,11 @@
         {
             "type": "composer",
             "url": "https://repo.magento.com/"
-        }
+        },
+	{
+	   "type": "vcs",
+	   "url": "https://github.com"
+	}
     ],
     "require": {
         "magento/product-community-edition": "2.0.7",
