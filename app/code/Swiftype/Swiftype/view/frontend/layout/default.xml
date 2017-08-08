@@ -3,6 +3,7 @@
 	<head>
 		<script src="Swiftype_Swiftype::js/jquery.swiftype.autocomplete.js" defer="defer" />
 		<script src="Swiftype_Swiftype::js/swiftype.magento.js" defer="defer" />
+		<script src="Swiftype_Swiftype::css/autocomplete.css" />
 	</head>
 	<body>
 		<referenceBlock name="head.additional">

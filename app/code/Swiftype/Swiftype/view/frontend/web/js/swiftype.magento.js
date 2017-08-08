@@ -1,8 +1,9 @@
 require(['jquery'],function($) {
 	
 	$(document).ready(function() {
-		console.log("Swiftype...");
-		const engineKey = $('meta[name=engine_key]').attr('content');
+		const engineKey = $('meta[name=swiftype-engine-key]').attr('content');
+
+		console.log(engineKey);
 
 		$('#search').swiftype({
 			engineKey: engineKey
